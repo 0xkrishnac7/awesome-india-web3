@@ -16,7 +16,8 @@ a curated list of communities, events, hackathon platforms and reads for anyone 
 ## communities
 - [Superteam India](https://x.com/SuperteamIN) - solana builder community with bounties, grants and IRL meetups
 - [SheFi India](https://x.com/shefiindia) - india chapter of SheFi: events, updates and education for women in web3
-- [Web3 Chennai](https://x.com/web3chennai) - growing the web3 ecosystem in chennai and tamil nadu
+- [Hyderabad DAO](https://x.com/hyderabaddao) - web3 enthusiasts building a vibrant web3 community in hyderabad
+- [Lucknow DAO](https://x.com/Lucknow_DAO) - on-ground builders ecosystem in north india
 - [Vidarbha DAO](https://x.com/VidarbhaDao) - web3 folks from central india. small cities, big web3 dreams
 - [Wagmi Tribe](https://x.com/Wagmi_Tribe) - inclusive web3 community to connect, learn and grow together
 
